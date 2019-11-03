@@ -3,6 +3,7 @@ title: "index.Rmd"
 author: "Matt R"
 date: "03/11/2019"
 output: html_document
+theme: spacelab
 ---
 
 ```{r setup, include=FALSE}
